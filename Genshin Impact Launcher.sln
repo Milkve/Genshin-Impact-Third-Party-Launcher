@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genshin Impact Launcher", "Genshin Impact Launcher.csproj", "{A5F635CA-0452-482C-9623-57DC85FB05FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F635CA-0452-482C-9623-57DC85FB05FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F635CA-0452-482C-9623-57DC85FB05FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F635CA-0452-482C-9623-57DC85FB05FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F635CA-0452-482C-9623-57DC85FB05FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99B2006-58DC-4931-BD18-12C6D0BC0E3A}
+	EndGlobalSection
+EndGlobal

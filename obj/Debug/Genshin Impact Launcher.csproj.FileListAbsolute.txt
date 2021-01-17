@@ -1,0 +1,25 @@
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\Genshin Impact Launcher.exe.config
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\Genshin Impact Launcher.exe
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\Genshin Impact Launcher.pdb
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.csprojAssemblyReference.cache
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\App.g.cs
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher_MarkupCompile.cache
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher_MarkupCompile.lref
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\MainWindow.baml
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.g.resources
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin_Impact_Launcher.Properties.Resources.resources
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.csproj.GenerateResource.cache
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.csproj.CoreCompileInputs.cache
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.exe
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.pdb
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\HandyControl.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\HandyControl.xml
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\en\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\fa\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\fr\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\ko-KR\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\ru\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\bin\Debug\tr\HandyControl.resources.dll
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\App.baml
+C:\Users\wangz\source\repos\Genshin Impact Launcher\obj\Debug\Genshin Impact Launcher.csproj.CopyComplete
